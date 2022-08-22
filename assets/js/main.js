@@ -159,7 +159,7 @@
 								$submit.disabled = false;
 
 							// Show message.
-								$message._show('success', 'Success');
+								$message._show('success', 'Success you are logined');
 								//$message._show('failure', 'Something went wrong. Please try again.');
 
 						}, 750);
